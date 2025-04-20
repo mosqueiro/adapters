@@ -13,7 +13,7 @@ import (
         "net/http"
         "os"
 
-        "github.com/cloudlena/adapters/logging"
+        "github.com/mosqueiro/adapters/logging"
 )
 
 // IndexHandler says what it loves.
