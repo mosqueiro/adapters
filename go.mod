@@ -1,4 +1,4 @@
-module github.com/cloudlena/adapters
+module github.com/mosqueiro/adapters
 
 go 1.24.1
 
